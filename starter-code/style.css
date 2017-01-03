@@ -10,7 +10,7 @@
 	background-color: rgb(255,255,0);
 	float: left;
 	margin: 8%;
-	border-radius: 10px;
+	border-radius: 25px;
 }
 
 h1, h2 {
@@ -60,4 +60,9 @@ nav a:hover {
  footer {
  	text-align: center;
  	background-color: #808080;
+ }
+
+ img {
+ 	height: 205px;
+ 	width: 155px;
  }
